@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLID.S.FurandoS
 {
+    // É Apenas um exemplo
     public class FurandoOPrincipio
     {
         public string Placa { get; set; }

@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace SOLID.S.RespeitandoSingle
 {
+    // É Apenas um exemplo
     internal class ServiceCar
     {
         public string Andar(Carro carro)

@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLID.S.RespeitandoSingle
 {
+    // É Apenas um exemplo
     internal class Carro
     {
         public string Placa { get; set; }
