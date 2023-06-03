@@ -33,10 +33,8 @@ namespace SOLID.S.FurandoS
         {
             if (Preço == valorPago)
                 Console.WriteLine("Realiza a venda");
-
             else
                 Console.WriteLine("Valor pago incorreto");
-
         }
     }
 }

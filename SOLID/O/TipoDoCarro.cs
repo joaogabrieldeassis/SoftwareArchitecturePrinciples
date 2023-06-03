@@ -4,10 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SOLID.S.RespeitandoSingle
+namespace SOLID.O
 {
-    // É Apenas um exemplo
-    internal class VendaDoCarro
+    public enum TipoDoCarro
     {
+        Pejo = 1,
+        Fiat = 2,
+        Sandero = 3,
+        Citroen = 4
     }
 }
